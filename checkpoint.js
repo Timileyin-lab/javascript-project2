@@ -40,3 +40,4 @@ function fibonacci(n) {
   }
   return sequence.slice(0, n);
 }
+
